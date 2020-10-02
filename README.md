@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, my name is Dino 🦖👋
 
-<!--
-**dinoperovic/dinoperovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js**, **Docker**.
 
-Here are some ideas to get you started:
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Dev.to" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
+[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[devto]: https://dev.to/dinoperovic
+[linkedin]: https://hr.linkedin.com/in/dino-perovic-a581b55b
+[instagram]: https://www.instagram.com/dinoperovic/
+[twitter]: https://twitter.com/dinoperovic
+[facebook]: https://facebook.com/dinoperovic3
