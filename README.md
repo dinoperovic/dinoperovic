@@ -1,6 +1,6 @@
 ## Hi, my name is Dino 🦖👋
 
-I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js**, **Docker**.
+I'm a full-stack software engineer working with **Python**, **Django**, **React**, **Vue.js**, **Docker**.
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
