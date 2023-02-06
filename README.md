@@ -37,4 +37,4 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Typesc
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/dinoperovic"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/dinoperovic"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" /></a>
