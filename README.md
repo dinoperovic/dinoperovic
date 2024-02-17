@@ -1,7 +1,7 @@
-Hi, my name is Dino 🦖
-======================
+My name is Dino 🦖
+=================
 
-I'm a full-stack software engineer working with **Python**, **Go**, **Javascript**.
+I'm a full-stack software engineer working with **Python**, **Typescript*, **Go**.
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/twitter.svg" />][twitter]
